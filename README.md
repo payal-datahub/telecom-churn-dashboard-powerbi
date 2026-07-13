@@ -1,2 +1,2 @@
-# telecom-churn-dashboard-powerbi
-Power BI churn analysis dashboard using DAX and Power Query
+# Telecom-Churn-Dashboard-Powerbi
+Power BI Churn Analysis Dashboard Using DAX and Power Query
