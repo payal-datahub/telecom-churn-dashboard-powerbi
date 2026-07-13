@@ -10,7 +10,7 @@ This project analyzes churn behavior for a telecom company's customer base (7,04
 - Contract type is the biggest driver — month-to-month customers churn far more than annual contract customers
 - Fiber optic internet users churn more than DSL or no-internet customers
 - Electronic check payment users show the highest churn rate compared to automatic payment methods
-- Most churn happens within the first few months** of tenure — highlighting onboarding as a critical retention window
+- Most churn happens within the first few months of tenure — highlighting onboarding as a critical retention window
 
  🛠️ Tools & Techniques
 -Power Query: Data cleaning — removed duplicates, fixed data types, handled blank/error values in TotalCharges
